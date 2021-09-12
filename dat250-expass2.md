@@ -1,5 +1,6 @@
 <h1>DAT250: Software Technology Experiment Assignment 2</h1>
 
+
 <h2>Experiment 1: Application using JPA</h2>
 
 <h3>Assignment 4.3 - 5</h3>
@@ -16,6 +17,10 @@ This I found easier than the previous assignments. I had a bigger understanding 
 <img width="1432" alt="Oppgave6" src="https://user-images.githubusercontent.com/42602758/133001354-5ffece36-7f48-42b2-979c-19eae99b6907.png">
 
 Git repo for expr A assignment 6: https://github.com/hvl578005/DAT250_ExprA2
+
+
+<h2>Experiment 2: Banking/Credit Card example JPA</h2>
+
 
 
 I couldn't figure out how to see the database I created.
