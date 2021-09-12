@@ -11,7 +11,9 @@ I found the tutorial quite difficult to follow. I experienced problems right at 
 Git repo for expr A (without assignment 6): https://github.com/hvl578005/DAT250_ExprA1
 
 <h3>Assignment 6</h3>
-This I found easier than the previous assignments. I had a bigger understanding of how IntelliJ worked and how to make Maven work. Screenshots of valid tests: <img width="1432" alt="Oppgave6" src="https://user-images.githubusercontent.com/42602758/133001354-5ffece36-7f48-42b2-979c-19eae99b6907.png">
+This I found easier than the previous assignments. I had a bigger understanding of how IntelliJ worked and how to make Maven work. Screenshots of valid tests: 
+
+<img width="1432" alt="Oppgave6" src="https://user-images.githubusercontent.com/42602758/133001354-5ffece36-7f48-42b2-979c-19eae99b6907.png">
 
 Git repo for expr A assignment 6: https://github.com/hvl578005/DAT250_ExprA2
 
