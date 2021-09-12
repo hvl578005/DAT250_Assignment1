@@ -25,6 +25,6 @@ This assignment I found to be the most difficult! It took a while before I figur
 But then I managed to understand the IDE in IntelliJ and could see what was in my database. Screenshot:
 <img width="1238" alt="screenshot" src="https://user-images.githubusercontent.com/42602758/133001755-1acf2cd0-d3f6-4630-a672-4f43540364c1.png">
 
-I dont think I got the connections in the database quite right. I got many errors when trying to use @OneToOne and @JoinColumns so I had to remove much of my code. @ManyToMany also had errors, but after successfully connecting to the database it suddenly worked. 
+I dont think I got the connections in the database quite right. I got many errors when trying to use @OneToOne and @JoinColumns so I had to remove much of my code. @ManyToMany also had errors, but after successfully connecting to the database it suddenly worked. But I must say trying to get the connections for each table in the database right was very challenging!
 
 Git repo for expr 2: https://github.com/hvl578005/DAT250_Expr2
