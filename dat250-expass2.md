@@ -29,4 +29,4 @@ I dont think I got the connections in the database quite right. I got many error
 Git repo for expr 2: https://github.com/hvl578005/DAT250_Expr2
 
 <h3>Final notes</h3>
-Due to very many technical difficulties (all the time), I had less time to solve the exercise.
+Due to very many technical difficulties, I feel like I spent more time on solving them instead of doing the actual exercise.
