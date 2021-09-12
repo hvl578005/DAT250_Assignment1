@@ -19,7 +19,7 @@ Git repo for expr 1 assignment 6: https://github.com/hvl578005/DAT250_ExprA2
 
 
 <h2>Experiment 2: Banking/Credit Card example JPA</h2>
-This assignment I found to be the most difficult! It took a while before I figured out how to see the contents of my Derby database. I tried to use the IJ command in terminal (following this tutorial https://www.vogella.com/tutorials/ApacheDerby/article.html?fbclid=IwAR1o9qjsm4uc_WQ-siTCqrQK0GQAFydb2GC0JHfpbi2Owz6vWtb5wnSt6LA) but it wouldn't work even though I've successfully downloaded the database, and by checking the database connection in IntelliJ it proved I had a connection to it. Screenshot of my connection
+This assignment I found to be the most difficult! It took a while before I figured out how to see the contents of my Derby database. I tried to use the IJ command in terminal (following this tutorial https://www.vogella.com/tutorials/ApacheDerby/article.html) but it wouldn't work even though I've successfully downloaded the database, and by checking the database connection in IntelliJ it proved I had a connection to it. Screenshot of my connection
 <img width="672" alt="testin" src="https://user-images.githubusercontent.com/42602758/133001719-b0c74c1e-d2bb-4d95-99c6-cb4ef59cb87f.png">
 
 But then I managed to understand the IDE in IntelliJ and could see what was in my database. Screenshot:
