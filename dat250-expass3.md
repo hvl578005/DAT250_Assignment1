@@ -1,5 +1,23 @@
 <h1>DAT250: Software Technology Experiment Assignment 3</h1>
-<h2>Experiment 1: MongoDB CRUD operations</h2>
+<h2>Installation and Verification</h2>
+First I did the <i>Verify Integrity of MongoDB Packages</i> tutorial. It went fine and had little to no complaints. I used the PGP/GPG key to check the validation of the MongoDB package. However when I did step 4 <i>Verify the MongoDB installation file</i> I got the right response which is 
+<br><br><i>gpg: Signature made Wed Jun  5 03:17:20 2019 EDT
+<br>gpg:                using RSA key 4B7C549A058F8B6B
+<br<gpg: Good signature from "MongoDB 5.0 Release Signing Key <packaging@mongodb.com>" [unknown]</i>
+<br>But I also got the following message: 
+ <br><i>gpg: WARNING: This key is not certified with a trusted signature!
+<br>gpg:          There is no indication that the signature belongs to the owner.
+<br>Primary key fingerprint: E162 F504 A20C DF15 827F  718D 4B7C 549A 058F 8B6B</i>
+ 
+  <br><br>
+ Which got me kind of confused, because the tutorial says if you get that message, you have the package signed but do not currently trust the signing key in your local trustdb. It didnt say how to fix it so I didnt really do anything about it. Sadly I did not take screenshots of it, becauase I didnt see that we had to before the end of the assignment. So when I tried to run the command in terminal again I just got this message
+  <br><br><i>gpg: fant ingen gyldig OpenPGP-data.
+<br>gpg: klarte ikke å bekrefte signatur.
+<br>Husk at signaturfil (.sig eller .asc)
+  <br>skal være første filargument på kommandolinja.</i>
+<br><br>Which was kind of annoying because I had already done all of it, and got confirmation the package was signed.
+  
+  <h2>Experiment 1: MongoDB CRUD operations</h2>
 <h3>Insert</h3>
 <img width="627" alt="CRUD1" src="https://user-images.githubusercontent.com/42602758/133826766-47c70253-d571-4e5a-80cd-a87673c04558.png">
 
