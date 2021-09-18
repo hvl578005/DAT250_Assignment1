@@ -10,7 +10,7 @@ First I did the <i>Verify Integrity of MongoDB Packages</i> tutorial. It went fi
 <br>Primary key fingerprint: E162 F504 A20C DF15 827F  718D 4B7C 549A 058F 8B6B</i>
  
   <br><br>
- Which got me kind of confused, because the tutorial says if you get that message, you have the package signed but do not currently trust the signing key in your local trustdb. It didnt say how to fix it so I didnt really do anything about it. Sadly I did not take screenshots of it, becauase I didnt see that we had to before the end of the assignment. So when I tried to run the command in terminal again I just got this message
+ Which got me kind of confused, because the tutorial says if you get that message, you have the package signed but do not currently trust the signing key in your local trustdb. It didnt say how to fix it so I didnt really do anything about it. Sadly I did not take screenshots of it, becauase I didnt see that we had to before the end of the assignment. So when I tried to run the command in terminal again today (five days later after the first time I did) I just got this message
   <br><br><i>gpg: fant ingen gyldig OpenPGP-data.
 <br>gpg: klarte ikke å bekrefte signatur.
 <br>Husk at signaturfil (.sig eller .asc)
