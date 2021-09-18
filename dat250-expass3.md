@@ -1,6 +1,6 @@
 <h1>DAT250: Software Technology Experiment Assignment 3</h1>
 <h2>Installation and Verification</h2>
-First I did the <i>Verify Integrity of MongoDB Packages</i> tutorial. It went fine and had little to no complaints. I used the PGP/GPG key to check the validation of the MongoDB package. When I did step 4 <i>Verify the MongoDB installation file</i> I got the right response which is (I copied these from the tutorial because I got the same message, only some numebrs switched out)
+First I did the <i>Verify Integrity of MongoDB Packages</i> tutorial. It went fine and had little to no complaints. I used the PGP/GPG key to check the validation of the MongoDB package. When I did step 4 <i>Verify the MongoDB installation file</i> I got the right response which is (I copied these from the tutorial because I got the same message, only some numbers switched out)
 <br><br><i>gpg: Signature made Wed Jun  5 03:17:20 2019 EDT
 <br>gpg:                using RSA key 4B7C549A058F8B6B
 <br<gpg: Good signature from "MongoDB 5.0 Release Signing Key <packaging@mongodb.com>" [unknown]</i>
