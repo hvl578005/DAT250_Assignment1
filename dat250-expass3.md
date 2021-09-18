@@ -16,6 +16,8 @@ First I did the <i>Verify Integrity of MongoDB Packages</i> tutorial. It went fi
 <br>Husk at signaturfil (.sig eller .asc)
   <br>skal være første filargument på kommandolinja.</i>
 <br>Which was kind of annoying because I had already done all of it, and got confirmation the package was signed. And running mongosh on terminal is working so the package is properly installed. To install mongosh I used homebrew.
+ <img width="604" alt="mongosh1" src="https://user-images.githubusercontent.com/42602758/133891739-452121c9-c654-4ad3-ac35-492411757779.png">
+
   
   <h2>Experiment 1: MongoDB CRUD operations</h2>
 <h3>Insert</h3>
@@ -37,7 +39,11 @@ First I did the <i>Verify Integrity of MongoDB Packages</i> tutorial. It went fi
 <img width="1435" alt="CRUD5" src="https://user-images.githubusercontent.com/42602758/133826912-3b99374f-4a1f-4ca0-9354-60b409fd12af.png">
 
 
-
-
-used to start mongosh<br>
-brew services start mongodb-community@5.0<br>compass doesnt work on mac? not availebl?
+ <h2>Experiment 2: Aggregation</h2>
+ <h3>Map Reduce and Aggregation</h3>
+ <img width="631" alt="CRUD6_4" src="https://user-images.githubusercontent.com/42602758/133891776-606bdb6e-5d44-412a-a2d1-e285d0b98030.png">
+ <br><h3>Additional Operation</h3>
+ <img width="603" alt="ADDITIONALOPERATION" src="https://user-images.githubusercontent.com/42602758/133891806-62afeb73-b22e-4ae9-8b00-e0bf2584473b.png">
+So when using MapReduce for the additional operation, I got a warning. So I changed to aggregation instead. I didnt get those warnings when doing MapReduce first so I was confused for what happened there. The idea behind the function is to get the customer ID and the order date. Then you can see which customers ordered something on a date. The purpose is to maybe see what day of the week customers buy the most!
+ <h3>Pending Issues and Final Notes</h3>
+ All in all I liked this assignment, the tutorial was descriptive and easy to follow. Pending issues may be that suddenly MapReduce didnt work and I had to swtch to aggregation, which was weird when it worked fine the other day. I did the additional operation two days later than the first assignments so maybe I forgot to type in something. And I have also learned I have to read the entire assignment before starting it. If I had read it all the way through I would have gotten my screenshots of the verification... 
