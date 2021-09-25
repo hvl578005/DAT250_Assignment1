@@ -11,7 +11,7 @@ For this experiment I used the IDE Eclipse. I've used IntelliJ in the other assi
 <img width="1023" alt="Screenshot4" src="https://user-images.githubusercontent.com/42602758/134312177-746abb12-f347-4fe8-8569-a13805d96d36.png">
 <br><h2>Experiment 2: REST API for TODO-items</h2>
 To create CRUD operations I used the Spark Framework Documentation, https://sparkjava.com/documentation#. I used the Todo class from the tutorial and added an id which automatically incremented by using AtomicLong. In the Main class I made a Hashmap of the Todo items. I used port 555 because for some reason 8080 didnt want to work even though I shut down the last program.
-<br><i>POST request</i>
+<br><br><i>POST request</i>
 <img width="1051" alt="is added" src="https://user-images.githubusercontent.com/42602758/134767855-009f3895-cba7-4d5e-80e4-27cfbf054f6b.png">
 Here I added this element.<br>
 <br><i>GET request</i>
