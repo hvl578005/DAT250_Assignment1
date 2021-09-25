@@ -17,11 +17,11 @@ Here I added this element.<br>
 <br><i>GET request</i>
 <img width="1049" alt="get" src="https://user-images.githubusercontent.com/42602758/134767877-7bf1a043-0009-4b1d-a142-a2d1a3c38b73.png">
 Here I retrieve all of the elements in the HashMap<br>
-<br><i>DELETE request</ir>
+<br><i>DELETE request</i>
 <img width="1029" alt="delete" src="https://user-images.githubusercontent.com/42602758/134767889-10afd12b-dbab-4c44-8a72-11b3b6e2b8ac.png">
 Here I delete a chosen element
 <br><i>GET request after deleting</i><br>
 <img width="1047" alt="get after deletion" src="https://user-images.githubusercontent.com/42602758/134767905-1881b5de-ec3e-4a8b-9dd7-17dfa76164d4.png">
 Here I retrieve my elements once again after performign delete operation, proving it works.
 <br>
-<br>Link for git repo: 
+<br>Link for git repo: https://github.com/hvl578005/DAT250_Expr4
