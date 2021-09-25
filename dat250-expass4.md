@@ -9,4 +9,19 @@ For this experiment I used the IDE Eclipse. I've used IntelliJ in the other assi
 <img width="1021" alt="Screenshot3_DesktopAgent" src="https://user-images.githubusercontent.com/42602758/134312159-c827535f-6576-4e0d-923e-b901f7adaa2f.png">
 <i>PUT request</i>
 <img width="1023" alt="Screenshot4" src="https://user-images.githubusercontent.com/42602758/134312177-746abb12-f347-4fe8-8569-a13805d96d36.png">
-
+<br><h2>Experiment 2: REST API for TODO-items</h2>
+To create CRUD operations I used the Spark Framework Documentation, https://sparkjava.com/documentation#. I used the Todo class from the tutorial and added an id which automatically incremented by using AtomicLong. In the Main class I made a Hashmap of the Todo items. I used port 555 because for some reason 8080 didnt want to work even though I shut down the last program.
+<br><i>POST request</i>
+<img width="1051" alt="is added" src="https://user-images.githubusercontent.com/42602758/134767855-009f3895-cba7-4d5e-80e4-27cfbf054f6b.png">
+Here I added this element.
+<br><i>GET request</i>>
+<img width="1049" alt="get" src="https://user-images.githubusercontent.com/42602758/134767877-7bf1a043-0009-4b1d-a142-a2d1a3c38b73.png">
+Here I retrieve all of the elements in the HashMap
+<br><i>DELETE request</ir>
+<img width="1029" alt="delete" src="https://user-images.githubusercontent.com/42602758/134767889-10afd12b-dbab-4c44-8a72-11b3b6e2b8ac.png">
+Here I delete a chosen element
+<br><i>GET request after deleting</i>
+<img width="1047" alt="get after deletion" src="https://user-images.githubusercontent.com/42602758/134767905-1881b5de-ec3e-4a8b-9dd7-17dfa76164d4.png">
+Here I retrieve my elements once again after performign delete operation, proving it works.
+<br>
+<br>Link for git repo: 
