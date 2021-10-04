@@ -11,4 +11,4 @@
 <img width="743" alt="Expr_4_Screenshots" src="https://user-images.githubusercontent.com/42602758/135850100-827900b6-6a48-41f3-9710-f03534f3f662.png">
 <br>
 <br>I had no technical issues with this assignment.
-<br><br>Link repo: https://github.com/hvl578005/DAT250_Expr5
+<br><br>Link to git repo: https://github.com/hvl578005/DAT250_Expr5
