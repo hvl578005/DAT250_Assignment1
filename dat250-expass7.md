@@ -5,9 +5,6 @@ project and running it. And when it finally did work and I had done 2/4 assignme
 and I had to download it again from homebrew?? So I spent more time on fixing technical installation issues than actually the tutorial. Other than that I didnt
 have any technical issues. I have none pending issues.
 <br><br>
-
-
-
 Link to git repo: https://github.com/hvl578005/DAT250_Assignment7
 
 
